@@ -10,8 +10,8 @@
 - 
 
   ### 주요 프로젝트 🌟
-- [shinhan-art](링크): 신한아트 페이지의 카피페이지. 리액트 사용으로 위시리스트,게시판,로그인/로그아웃 등 기능 추가
-- [Solar-System](링크): 행성에 대한 내용으로 사이트 구현(팀프로젝트). html로 개발 후 리액트로 변환. (변환하며 로그인,게시판,간단한 팝업 기능 추가)
+- [shinhan-art]([링크](https://github.com/jiyeong00/FED-RF-2nd-PJ-Yu_ji_yeong/tree/main/2%EC%B0%A8%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8/03.%EA%B5%AC%ED%98%84%EC%86%8C%EC%8A%A4/art-app)): 신한아트 페이지의 카피페이지. 리액트 사용으로 위시리스트,게시판,로그인/로그아웃 등 기능 추가
+- [Solar-System]([링크](https://github.com/jiyeong00/FED-RF-2nd-PJ-Yu_ji_yeong/tree/main/SOLAR-SYSTEM-React/solar-app)): 행성에 대한 내용으로 사이트 구현(팀프로젝트). html로 개발 후 리액트로 변환. (변환하며 로그인,게시판,간단한 팝업 기능 추가)
 
   ### 학습 목표 🎯
 - 현재 진행한 프로젝트 중 하나를 리액트로 변환 예정 (2024-10-28~)
