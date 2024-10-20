@@ -11,7 +11,7 @@
 
 
 ### 기술 스택 🚀
-- **언어/프레임워크**: JavaScript, HTML5, CSS, SCSS, React
+- **언어/프레임워크**: ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white), ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white), CSS, SCSS, React
 - **툴**: GIt, Visual Studio
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiyeong00)](https://github.com/anuraghazra/github-readme-stats)
