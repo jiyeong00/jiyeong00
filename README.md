@@ -17,7 +17,7 @@ React를 중심으로 프론트엔드 개발을 배우고 성장해가는 중입
   NASA의 행성 정보를 기반으로 웹사이트를 제작했습니다.  
   **초기에는 HTML/CSS/JS로**, 이후에는 **React로 리팩터링**하여 로그인, 팝업, 게시판 등의 기능을 추가했습니다.  
   팀 프로젝트로 진행하며 GitHub 브랜치를 통한 협업을 경험했습니다.  
-  👉 배포 링크: [https://jiyeong00.github.io/.../solar-app/build](https://jiyeong00.github.io/FED-RF-2nd-PJ-Yu_ji_yeong/SOLAR-SYSTEM-React/solar-app/build)
+  👉 [프로젝트 링크](https://jiyeong00.github.io/FED-RF-2nd-PJ-Yu_ji_yeong/SOLAR-SYSTEM-React/solar-app/build)
 
 ---
 
