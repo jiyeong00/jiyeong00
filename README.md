@@ -6,7 +6,10 @@ React를 중심으로 프론트엔드 개발을 배우고 성장해가는 중입
 잘 부탁드립니다!
 
 👉 [포트폴리오](https://portfolio-git-main-jiyeongs-projects-f4093dcf.vercel.app/)
-<a href="https://portfolio-git-main-jiyeongs-projects-f4093dcf.vercel.app/" target="_blank" rel="noopener noreferrer">Example 링크</a>
+
+<p>
+  👉 <a href="https://portfolio-git-main-jiyeongs-projects-f4093dcf.vercel.app/" target="_blank" rel="noopener noreferrer">프로젝트 바로가기</a>
+</p>
 
 ---
 
